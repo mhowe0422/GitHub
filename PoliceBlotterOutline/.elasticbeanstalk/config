@@ -1,0 +1,14 @@
+[global]
+ApplicationName=PoliceBlotterOutline
+AwsCredentialFile=C:\Users\Mark\.elasticbeanstalk\aws_credential_file
+DevToolsEndpoint=git.elasticbeanstalk.us-east-1.amazonaws.com
+EnvironmentName=PoliceBlotterOutline-en
+EnvironmentTier=WebServer::Standard::1.0
+EnvironmentType=SingleInstance
+InstanceProfileName=aws-elasticbeanstalk-ec2-role
+OptionSettingFile=C:\GitHub\PoliceBlotterOutline\.elasticbeanstalk\optionsettings.PoliceBlotterOutline-en
+RdsEnabled=No
+Region=us-east-1
+ServiceEndpoint=https://elasticbeanstalk.us-east-1.amazonaws.com
+SolutionStack=64bit Amazon Linux 2014.09 v1.0.9 running PHP 5.5
+
