@@ -3,7 +3,7 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <title>Local Police Blotter Outline Test Map</title>
+    <title>Local Police Blotter Outline Map</title>
     <style>
         html, body, #map {
             height: 80%;
